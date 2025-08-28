@@ -26,7 +26,7 @@ I'm a student who loves coding and learning new shi daily.
 - **[Lancework](https://discord.gg/RjafZjTZfs)** - A discord server for freelancers and clients!
 
 ### 📫 How to reach me
-- Email: layyin2424@gmail.com
+- Email: zykrodev@gmail.com
 - Portfolio: [Zykro](https://zykro.devcreates.lol)
 
 <!-- ### ☕ Support My Work
