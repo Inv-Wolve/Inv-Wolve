@@ -29,10 +29,10 @@ I'm a student who loves coding and learning new shi daily.
 - Email: layyin2424@gmail.com
 - Portfolio: [Zykro](https://zykro.devcreates.lol)
 
-### ☕ Support My Work
+<!-- ### ☕ Support My Work
 If you like what I do and want to support my learning journey, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/) -->
 
 ---
 ⭐️ [Zykro](https://github.com/Inv-Wolve)
