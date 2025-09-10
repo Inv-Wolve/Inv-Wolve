@@ -24,7 +24,6 @@ I'm a student who loves coding and learning new shi daily.
 - **[Quiver Tutoring](https://quivertutoring.com)** - A website for undergraduates to study any commerce related subjects! (Clients work)
 - **[Timeswap-AI](https://zykro.devcreates.lol/TimeSwap-AI)** - An AI powered task manager.
 - **[My Portfolio](inv-wolve.github.io/me)** - My me page!
-- 
 - **[Lancework](https://discord.gg/RjafZjTZfs)** - A discord server for freelancers and clients!
 
 ### 📫 How to reach me
