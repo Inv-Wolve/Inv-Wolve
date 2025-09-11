@@ -4,7 +4,7 @@ I'm a student who loves coding and learning new shi daily.
 
 ### 🎓 About Me
 - 🔭 I'm currently working on various projects to improve my skills (and for money 🤑)
-- 🌱 I'm always learning something new in web development (currently studying react..)
+- 🌱 I'm always learning something new in web development (currently studying cybersecuriy and ethical hacking..)
 - 👯 I'm looking to collaborate on open source projects
 - 💬 I love tech related shit
 - ⚡ I debug with console.log() more than I'd like to admit.
@@ -21,14 +21,15 @@ I'm a student who loves coding and learning new shi daily.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Inv-Wolve&show_icons=true&theme=default)
 
 ### 🚀 Featured Projects
-- **[Quiver Tutoring](https://quivertutoring.com)** - A website for undergraduates to study any commerce related subjects! (Clients work)
-- **[Timeswap-AI](https://zykro.devcreates.lol/TimeSwap-AI)** - An AI powered task manager.
-- **[My Portfolio](inv-wolve.github.io/me)** - My me page!
-- **[Lancework](https://discord.gg/RjafZjTZfs)** - A discord server for freelancers and clients!
+- **[Quiver Tutoring](https://quivertutoring.com)** - A website for undergraduates to study any commerce related subjects! (Freelance work)
+- **[Timeswap-AI](https://zykro.devcreates.lol/TimeSwap-AI)** - An AI powered task manager. (Founder)
+- **[My Portfolio](https://zykro.dev)** - My me page!
+- **[Lancework](https://discord.gg/RjafZjTZfs)** - A discord server for freelancers and clients! (Co-Owning)
+- **[Freelance Frontier](https://freelancefrontier.one/)** - A discord server where freelancers learn to be freelancers, meet clients and get opportunities. (Freelance Work)
 
 ### 📫 How to reach me
 - Email: zykrodev@gmail.com
-- Portfolio: [Zykro](https://zykro.devcreates.lol)
+- Portfolio: [Zykro](https://zykro.dev#support)
 
 <!-- ### ☕ Support My Work
 If you like what I do and want to support my learning journey, consider buying me a coffee!
