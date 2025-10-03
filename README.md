@@ -3,11 +3,10 @@
 I'm a student who loves coding and learning new shi daily.
 
 ### 🎓 About Me
-- 🔭 I'm currently working on various projects to improve my skills (and for money 🤑)
+- 🔭 I'm currently working on various projects to improve my skills 
 - 🌱 I'm always learning something new in web development (currently studying cybersecuriy and ethical hacking..)
 - 👯 I'm looking to collaborate on open source projects
 - 💬 I love tech related shit
-- ⚡ I debug with console.log() more than I'd like to admit.
 
 ### 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
