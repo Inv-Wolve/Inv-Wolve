@@ -22,10 +22,11 @@ I'm a student who loves coding and learning new shi daily.
 
 ### 🚀 Featured Projects
 - **[Quiver Tutoring](https://quivertutoring.com)** - A website for undergraduates to study any commerce related subjects! (Freelance work)
-- **[Timeswap-AI](https://zykro.devcreates.lol/TimeSwap-AI)** - An AI powered task manager. (Founder)
+- **[Timeswap-AI](https://zykro.dev/TimeSwap-AI)** - An AI powered task manager. (Founder)
 - **[My Portfolio](https://zykro.dev)** - My me page!
 - **[Lancework](https://discord.gg/RjafZjTZfs)** - A discord server for freelancers and clients! (Co-Owning)
-- **[Freelance Frontier](https://freelancefrontier.one/)** - A discord server where freelancers learn to be freelancers, meet clients and get opportunities. (Freelance Work)
+- **[Freelance Frontier](https://freelancefrontier.one/)** - A discord server where freelancers learn to be freelancers, meet clients, participate in events and get opportunities. (Freelance Work) (**My** work isn't released on it yet.)
+- **[ArtStudio LK](https://theartstudio.lk/)** - An art ecommerce store. (Freelance Work)
 
 ### 📫 How to reach me
 - Email: zykrodev@gmail.com
