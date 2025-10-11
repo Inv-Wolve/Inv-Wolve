@@ -17,7 +17,8 @@ I'm a student who loves coding and learning new shi daily.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Inv-Wolve&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Inv-Wolve&show_icons=true&count_private=true)
+
 
 ### 🚀 Featured Projects
 - **[Quiver Tutoring](https://quivertutoring.com)** - A website for undergraduates to study any commerce related subjects! (Freelance work)
