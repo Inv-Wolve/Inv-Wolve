@@ -22,20 +22,9 @@ I'm a student who loves coding and learning new shi daily.
 - **[Quiver Tutoring](https://quivertutoring.com)** - A website for undergraduates to study any commerce related subjects! (Freelance work)
 - **[Zyntrain-AI](https://github.com/Inv-Wolve/Zyntrain-AI)** - An AI powered task manager.
 - **[Skribb AI](https://github.com/Inv-Wolve/Skribb-AI-Notes)** - An AI powered note taker, for both students and professionals!
-- **[My Portfolio](https://zykro.dev)** - My me page!
-- **[Lancework](https://discord.gg/RjafZjTZfs)** - A discord server for freelancers and clients! (Co-Owning)
-- **[Freelance Frontier](https://freelancefrontier.one/)** - A discord server where freelancers learn to be freelancers, meet clients, participate in events and get opportunities. (Freelance Work) (**My** work isn't released on it yet.)
-- **[ArtStudio LK](https://theartstudio.lk/)** - An art ecommerce store. (Freelance Work)
+<!-- - **[My Portfolio](https://zykro.dev)** - My me page! -->
+<!-- - **[Freelance Frontier](https://freelancefrontier.one/)** - A discord server where freelancers learn to be freelancers, meet clients, participate in events and get opportunities. (Freelance Work) (**My** work isn't released on it yet.) -->
+- **[Olaya LK](https://www.olaya.com.lk)** - A clothing ecommerce store. (Freelance Work)
 - **[6 - 7 Detector](https://github.com/Inv-Wolve/6-7-Detector)** - A meme project based on the 6 - 7 meme. Uses video tracker to look for 6 - 7. Beta.
 
-### How to reach me
-- Email: contact@zykro.dev
-- Portfolio: [Zykro](https://zykro.dev#support)
 
-<!-- ### ☕ Support My Work
-If you like what I do and want to support my learning journey, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/) -->
-
----
-[Zykro](https://github.com/Inv-Wolve)
